@@ -132,3 +132,6 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-10 23:24:09.725
 !MESSAGE executing callback sts4.classpath.XJwmFLQB SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-09-10 23:45:49.645
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
